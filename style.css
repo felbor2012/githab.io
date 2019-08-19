@@ -1,0 +1,27 @@
+#header { text-align: center;
+margin: 0px 0px 32px 0px;
+}
+
+#main {}
+
+#footer {margin: 64px 0px 0px 0px;
+   text-align: center;  
+}
+
+p {margin: 0px 0px 12px 0px}
+
+
+
+h1{font-weight: 400; 
+  font-size:  36px;
+  margin: 0px 0px 0px 0px ;}
+
+h2{font-weight: 400;
+   font-size:  32px;
+  border-bottom: 1px solid grey ; 
+  margin: 0px 0px 8px 0px;
+}
+h3{font-weight: 400;
+   font-size:  20px;
+  margin: 0px 0px 0px 0px;
+}
